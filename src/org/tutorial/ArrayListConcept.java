@@ -124,12 +124,6 @@ public class ArrayListConcept {
 			System.out.println(ar7.get(i));
 		}
 		
-
-		
-		
-		
-		
-		
 	}
 
 }
