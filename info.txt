@@ -9,3 +9,12 @@ This section describes the different controlflow statements supported by the Jav
 1. Decision-making statements (if-then, if-then-else, switch), 
 2. Looping statements (for, while, do-while), and 
 3. Branching statements (break, continue, return) 
+
+The if-then and if-then-else Statements:
+
+i) The if-then Statement 
+- The if-then statement is the most basic of all the control flow statements. 
+- It tells our program to execute a certain section of code only if a particular test evaluates to true.
+
+ii) The if-then-else Statement
+- The if-then-else statement provides a secondary path of execution when an "if" clause evaluates to false. 
